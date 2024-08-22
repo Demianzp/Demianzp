@@ -5,7 +5,7 @@ Actualmente estudio la Carrera Técnico Superior en Desarrollo de Software. Soy 
 ## Proyectos Destacados
 
 ### Sistema de Gestión Escolar
-- **Descripción:** Un sistema que facilita la administración de datos de alumnos y profesores, la inscripción en materias y el manejo de la base de datos.
+- **Descripción:** Un sistema que facilita la administración de datos de alumnos y profesores, la inscripción en materias.
 - **Contribuciones:** Implementación del ingreso de datos, inscripción de alumnos en materias, y desarrollo/modificación de la base de datos.
 
 ### Sistema de Gestión de Asistencia
