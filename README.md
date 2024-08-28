@@ -23,7 +23,7 @@ Actualmente, estudio la Carrera Técnico Superior en Desarrollo de Software. Soy
 - **Lenguajes de programación:**![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white),![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 - **Bases de datos:** ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 - **Desarrollo web:**![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white),![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white),![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)
-- **Entornos de desarrollo:** Visual Studio Code[VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
+- **Entornos de desarrollo:** Visual Studio Code.![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
 - **Herramientas de diseño:** Figma ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 - **Gestión de proyectos:** Trello ![Trello](https://img.shields.io/badge/-Trello-0052CC?logo=trello&logoColor=white)
 - **Sistema operativo:** Linux Mint ![Linux Mint](https://img.shields.io/badge/-Linux_Mint-87CF3E?logo=linux-mint&logoColor=white)
