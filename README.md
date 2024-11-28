@@ -15,7 +15,7 @@ Soy estudiante de la Carrera Técnico Superior en Desarrollo de Software y un ap
 **Descripción:** Herramienta para gestionar y registrar la asistencia en clases, incluyendo la administración de datos de profesores y preceptores.  
 **Contribuciones:** Desarrollo de funcionalidades para materias y dictado, así como la vista de profesor para el registro de asistencia. Modificación de la base de datos.
 
-**Repositorio:** [Sistema de Gestión Asistencia - Proyecto de Base de Datos 2]()
+**Repositorio:** [Sistema de Gestión Asistencia - Proyecto de Base de Datos 2](https://github.com/Demianzp/Proyect-ISFT)
 
 ## 🛠️ Habilidades
 
