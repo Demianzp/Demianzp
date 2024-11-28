@@ -6,7 +6,7 @@ Soy estudiante de la Carrera Técnico Superior en Desarrollo de Software y un ap
 
 ### Sistema de Gestión Escolar
 **Descripción:** Sistema integral para la administración de datos de alumnos y profesores, con funcionalidades para la inscripción en materias,regisro de notas , ciclo lectivo y mesas de examen.  
-**Contribuciones:** Implementación del ingreso de datos (Alumnos,Profesor,Administracion), inscripción de alumnos en materias , funcionalidad en validacion y control de datos, y desarrollo/modificación de la base de datos.
+**Contribuciones:** Implementación del ingreso de datos (Alumnos,Profesor,Administracion), inscripción de alumnos en materias  y mesas de examen , funcionalidad en validacion y control de datos, y desarrollo/modificación de la base de datos.
 
 ### Sistema de Gestión de Asistencia
 **Descripción:** Herramienta para gestionar y registrar la asistencia en clases, incluyendo la administración de datos de profesores y preceptores.  
