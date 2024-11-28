@@ -3,14 +3,19 @@
 Soy estudiante de la Carrera Técnico Superior en Desarrollo de Software y un apasionado desarrollador con experiencia en la creación de sistemas de gestión. He trabajado en proyectos significativos como un **Sistema de Gestión Escolar** 📚 y un **Sistema de Gestión de Asistencia** 🗂️.
 
 ## 🏆 Proyectos Destacados
-
 ### Sistema de Gestión Escolar
-**Descripción:** Sistema integral para la administración de datos de alumnos y profesores, con funcionalidades para la inscripción en materias,regisro de notas , ciclo lectivo y mesas de examen.  
-**Contribuciones:** Implementación del ingreso de datos (Alumnos,Profesor,Administracion), inscripción de alumnos en materias  y mesas de examen , funcionalidad en validacion y control de datos, y desarrollo/modificación de la base de datos.
+
+**Descripción:** Sistema integral para la administración de datos de alumnos y profesores, con funcionalidades para la inscripción en materias, registro de notas, gestión de ciclos lectivos y mesas de examen.
+
+**Contribuciones:** Desarrollo e implementación de funcionalidades clave, como el ingreso de datos (alumnos, profesores y administración), inscripción de alumnos en materias y mesas de examen, validación y control de datos, además de la creación y modificación de la base de datos.
+
+**Repositorio:** [Sistema de Gestión Escolar - Vida Silvestre](https://github.com/Demianzp/vidasilvestre)
 
 ### Sistema de Gestión de Asistencia
 **Descripción:** Herramienta para gestionar y registrar la asistencia en clases, incluyendo la administración de datos de profesores y preceptores.  
 **Contribuciones:** Desarrollo de funcionalidades para materias y dictado, así como la vista de profesor para el registro de asistencia. Modificación de la base de datos.
+
+**Repositorio:** [Sistema de Gestión Asistencia - Proyecto de Base de Datos 2]()
 
 ## 🛠️ Habilidades
 
