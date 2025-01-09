@@ -8,6 +8,8 @@ Técnico Superior en Desarrollo de Software y desarrollador apasionado con exper
 
 **Contribuciones:** Desarrollo e implementación de funcionalidades clave, como el ingreso de datos (alumnos, profesores y administración), inscripción de alumnos en materias y mesas de examen, validación y control de datos, además de la creación y modificación de la base de datos.
 
+**Repositorio:** [Sistema de Gestión Escolar - Vida Silvestre](https://github.com/Demianzp/vidasilvestre)
+
 ### Sistema de Gestión para el Servicio Penitenciario Provincial
 
 **Descripción:** El sistema está diseñado para optimizar la administración y el seguimiento de las Personas Privadas de la Libertad (PPL), así como para gestionar los datos de los usuarios internos, como personal de Admisión, Sanidad y Administradores.
@@ -23,13 +25,7 @@ Gestión de Usuarios: Control de accesos y permisos según roles específicos (a
 Validación de datos: Implementación de mecanismos para asegurar la integridad de la información ingresada en el sistema.
 
 Optimización de base de datos: Mejora en la estructura y rendimiento de las consultas para garantizar la fluidez del sistema.
-**Repositorio** [Sistema de Gestion SPP]
-()
-
-
-
-
-**Repositorio:** [Sistema de Gestión Escolar - Vida Silvestre](https://github.com/Demianzp/vidasilvestre)
+**Repositorio** [Sistema de Gestion SPP](https://github.com/sedrna26/SPP)
 
 ### Sistema de Gestión de Asistencia
 **Descripción:** Herramienta para gestionar y registrar la asistencia en clases, incluyendo la administración de datos de profesores y preceptores.  
@@ -53,9 +49,9 @@ Optimización de base de datos: Mejora en la estructura y rendimiento de las con
 - **Gestión de proyectos:** ![Trello](https://img.shields.io/badge/-Trello-0052CC?logo=trello&logoColor=white)
 - **Sistema operativo:** ![Linux Mint](https://img.shields.io/badge/-Linux_Mint-87CF3E?logo=linux-mint&logoColor=white)
 
-## 📫 Contacto
+## 📫 Contacto  
 
-- **LinkedIn** 🌐 [https://www.linkedin.com/in/demian-perez](https://www.linkedin.com/in/demian-perez)
+- **LinkedIn** 🌐 [Demian Perez](https://www.linkedin.com/in/demianprz)  
 - **Correo Electrónico** 📧 [demianagustinds3@gmail.com](mailto:demianagustinds3@gmail.com)
 
 ¡Gracias por visitar mi perfil de GitHub! 😊
