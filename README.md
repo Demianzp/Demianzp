@@ -27,7 +27,7 @@ Validación de datos: Implementación de mecanismos para asegurar la integridad 
 
 Optimización de base de datos: Mejora en la estructura y rendimiento de las consultas para garantizar la fluidez del sistema.
 
-**Repositorio** [Sistema de Gestion SPP](https://github.com/sedrna26/SPP)
+**Repositorio:** [Sistema de Gestion SPP](https://github.com/sedrna26/SPP)
 
 ### Sistema de Gestión de Asistencia
 **Descripción:** Herramienta para gestionar y registrar la asistencia en clases, incluyendo la administración de datos de profesores y preceptores.  
