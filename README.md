@@ -1,6 +1,5 @@
 # Hola, soy Demian Perez👋
-
-Soy estudiante de la Carrera Técnico Superior en Desarrollo de Software y un apasionado desarrollador con experiencia en la creación de sistemas de gestión. He trabajado en proyectos significativos como un **Sistema de Gestión Escolar** 📚 y un **Sistema de Gestión de Asistencia** 🗂️.
+Técnico Superior en Desarrollo de Software y desarrollador apasionado con experiencia en la creación de sistemas de gestión. He trabajado en proyectos significativos como un Sistema de Gestión Escolar, un Sistema de Servicio Penitenciario y un Sistema de Gestión de Asistencia. Mi especialización se centra en el desarrollo back-end, donde aporto soluciones eficientes y funcionales.
 
 ## 🏆 Proyectos Destacados
 ### Sistema de Gestión Escolar
@@ -8,6 +7,27 @@ Soy estudiante de la Carrera Técnico Superior en Desarrollo de Software y un ap
 **Descripción:** Sistema integral para la administración de datos de alumnos y profesores, con funcionalidades para la inscripción en materias, registro de notas, gestión de ciclos lectivos y mesas de examen.
 
 **Contribuciones:** Desarrollo e implementación de funcionalidades clave, como el ingreso de datos (alumnos, profesores y administración), inscripción de alumnos en materias y mesas de examen, validación y control de datos, además de la creación y modificación de la base de datos.
+
+### Sistema de Gestión para el Servicio Penitenciario Provincial
+
+**Descripción:** El sistema está diseñado para optimizar la administración y el seguimiento de las Personas Privadas de la Libertad (PPL), así como para gestionar los datos de los usuarios internos, como personal de Admisión, Sanidad y Administradores.
+
+**Características principales:**
+
+Gestión de PPL: Registro y actualización de datos personales, estado judicial y situación penitenciaria de los internos.
+
+Módulo de Auditoría: Registro de actividades realizadas por los usuarios del sistema, garantizando trazabilidad y seguridad en los procesos.
+
+Gestión de Usuarios: Control de accesos y permisos según roles específicos (administradores, personal sanitario, etc.).
+
+Validación de datos: Implementación de mecanismos para asegurar la integridad de la información ingresada en el sistema.
+
+Optimización de base de datos: Mejora en la estructura y rendimiento de las consultas para garantizar la fluidez del sistema.
+**Repositorio** [Sistema de Gestion SPP]
+()
+
+
+
 
 **Repositorio:** [Sistema de Gestión Escolar - Vida Silvestre](https://github.com/Demianzp/vidasilvestre)
 
