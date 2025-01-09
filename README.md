@@ -1,5 +1,6 @@
-# Hola, soy Demian Perez👋
-Técnico Superior en Desarrollo de Software y desarrollador apasionado con experiencia en la creación de sistemas de gestión. He trabajado en proyectos significativos como un Sistema de Gestión Escolar, un Sistema de Servicio Penitenciario y un Sistema de Gestión de Asistencia. Mi especialización se centra en el desarrollo back-end, donde aporto soluciones eficientes y funcionales.
+# Bienvenido a mi perfil, Demian Pérez 👋  
+Técnico Superior en Desarrollo de Software y desarrollador apasionado con experiencia en la creación de sistemas de gestión. He trabajado en proyectos destacados como un Sistema de Gestión Escolar, un Sistema de Servicio Penitenciario y un Sistema de Gestión de Asistencia.  
+Mi especialidad es el desarrollo back-end, donde diseño soluciones eficientes y funcionales para diversos entornos.
 
 ## 🏆 Proyectos Destacados
 ### Sistema de Gestión Escolar
