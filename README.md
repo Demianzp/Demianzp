@@ -26,10 +26,12 @@ Gestión de Usuarios: Control de accesos y permisos según roles específicos (a
 Validación de datos: Implementación de mecanismos para asegurar la integridad de la información ingresada en el sistema.
 
 Optimización de base de datos: Mejora en la estructura y rendimiento de las consultas para garantizar la fluidez del sistema.
+
 **Repositorio** [Sistema de Gestion SPP](https://github.com/sedrna26/SPP)
 
 ### Sistema de Gestión de Asistencia
 **Descripción:** Herramienta para gestionar y registrar la asistencia en clases, incluyendo la administración de datos de profesores y preceptores.  
+
 **Contribuciones:** Desarrollo de funcionalidades para materias y dictado, así como la vista de profesor para el registro de asistencia. Modificación de la base de datos.
 
 **Repositorio:** [Sistema de Gestión Asistencia - Proyecto de Base de Datos 2](https://github.com/Demianzp/Proyect-ISFT)
