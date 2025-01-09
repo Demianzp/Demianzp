@@ -36,20 +36,24 @@ Optimización de base de datos: Mejora en la estructura y rendimiento de las con
 
 ## 🛠️ Habilidades
 
-- **Desarrollo de sistemas de gestión** ⚙️
-- **Gestión y modificación de bases de datos** 📊
-- **Resolución de problemas técnicos** 🔍
+- **Desarrollar sistemas de gestión** ⚙️  
+- **Optimizar y modificar bases de datos** 📊  
+- **Implementar funcionalidades clave** 🔧  
+- **Mejorar la eficiencia en el desarrollo de soluciones tecnológicas** 💡  
+- **Integrar tecnologías y herramientas en proyectos** 🔗  
+- **Trabajo en equipo y colaboración ágil** 🤝  
+- **Aplicación de metodologías Scrum** 📈  
 
 ## 🚀 Herramientas y Tecnologías
 
-- **Lenguajes de programación:** ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+- **Lenguajes de programación:** ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 - **Bases de datos:** ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-- **Desarrollo web:** ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)
+- **Desarrollo web:** ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white) ![Ajax](https://img.shields.io/badge/-Ajax-00A4FF?logo=ajax&logoColor=white)
 - **Entornos de desarrollo:** ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
 - **Herramientas de diseño:** ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 - **Gestión de proyectos:** ![Trello](https://img.shields.io/badge/-Trello-0052CC?logo=trello&logoColor=white)
-- **Sistema operativo:** ![Linux Mint](https://img.shields.io/badge/-Linux_Mint-87CF3E?logo=linux-mint&logoColor=white)
 
+  
 ## 📫 Contacto  
 
 - **LinkedIn** 🌐 [Demian Perez](https://www.linkedin.com/in/demianprz)  
